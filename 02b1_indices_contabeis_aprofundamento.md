@@ -98,3 +98,13 @@ A Súmula 289/TCU exige que os índices "atendam às características do objeto 
 | Precedente específico de TC condenando exatamente "1,5 em RSU" | **Não localizei precedente específico** com esse recorte exato; a sustentação é o conjunto normativo-jurisprudencial acima |
 
 **Fontes documentais**: Lei 14.133/2021, art. 69 (texto conferido por transcrição no Parecer 17/2024/CNLCA); Súmula 289/TCU e Acórdãos 1214/2013, 970/2022, 1321/2020 (Plenário) — licitacoesecontratos.tcu.gov.br; Parecer n. 00017/2024/CNLCA/CGU/AGU (NUP 08658083758202438); TCE-SP, TC-001253.989.24-8, Pleno, 27/03/2024, Rel. Cons. Sidney Estanislau Beraldo; Acórdão 2.724/2025-TCU-Plenário (fonte secundária — Migalhas); IN SEGES/MP 5/2017, Anexo VII-A, item 11.1, c/c IN SEGES/ME 98/2022.
+
+---
+
+## 8. Diligência complementar em base de jurisprudência de TCEs (resultado negativo — registro)
+
+Pesquisa realizada via API agregadora de decisões de Tribunais de Contas (tce.leinamao.com.br, ferramenta `juris.py`) com os termos "índice de liquidez", "qualificação econômico-financeira índices contábeis edital restritivo", "índice de liquidez superior edital licitação competitividade" e "endividamento qualificação econômico-financeira licitação". Resultado:
+
+- **Não localizei precedente específico** de TCE condenando índices de liquidez ≥ 1,5 ou endividamento ≤ 0,5 em edital, além do material já citado.
+- Candidatos identificados pelos metadados (TCE-SC, Acórdão 130/2022; TCDF, Decisão 2793/2023; TCE-PE, Decisão 0901330/2009 — esta sobre limpeza urbana/coleta de RSU da EMLURB) **não puderam ter o inteiro teor acessado** (erros HTTP 500/404 e link de intranet); pela regra de não citar sem confirmação literal, **nenhum deles integra esta análise**.
+- Limitações da base verificadas empiricamente: o filtro por tribunal retorna erro para qualquer valor testado, e as amostras obtidas não trouxeram nenhum julgado do TCE-SP — possivelmente fora do corpus. A pesquisa de jurisprudência do TCE-SP segue dependendo do portal próprio (jurisprudencia.tce.sp.gov.br), pelo qual foi obtido o TC-001253.989.24-8 citado no § 2(c).
