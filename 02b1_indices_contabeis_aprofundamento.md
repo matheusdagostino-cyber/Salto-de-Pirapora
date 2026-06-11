@@ -86,7 +86,21 @@ Leitura do resultado: a líder listada do setor — lucrativa (lucro líquido de
 
 *Nota de fonte*: dados da Orizon obtidos de agregadores financeiros (investing.com e fundamentus.com.br, convergentes entre si e entre períodos); dados da Solví Essencis extraídos da demonstração financeira auditada publicada (exercício 2024); RJ da Ambipar confirmada em múltiplas fontes jornalísticas convergentes. Para a peça de impugnação, anexar as DFs oficiais (CVM/RI das companhias), que são públicas.
 
-- **Ancoragem do § 4 (incl. 4.4)**: *construção interpretativa com base documental* (adequação ao objeto e parâmetros de mercado — Súmula 289/TCU; indispensabilidade — art. 37, XXI, da CF; art. 9.º, I, da Lei n.º 14.133/2021).
+**4.5. Ancoragem técnico-acadêmica e institucional: a alavancagem é a política pública do setor, não um desvio.**
+
+A literatura técnica e os estudos institucionais oficiais do setor confirmam que a estrutura de capital que o IE ≤ 0,5 reprova é a estrutura *induzida pela própria política federal* para o RSU:
+
+**(a) Dimensão do CAPEX setorial.** Caderno Setorial ETENE/Banco do Nordeste, *Resíduos Sólidos* (Marta Maria Aguiar Sisnando Silva, Ano 10, n.º 378, mar./2025, ISSN 2966-3482 — íntegra examinada), com base no Plansab/Planares e em BNDES (2024): a universalização do manejo de RSU até 2033 exige investimentos de **R$ 79,2 bilhões** (R$ de 2023, cenário de regionalização parcial), dos quais **R$ 29,9 bi (38%) só em aterros sanitários** — exatamente o núcleo do objeto deste edital. O estudo registra que "são necessários grandes investimentos e a coalizão entre o poder público e o setor privado" e identifica **85 concessões** de manejo de RSU já em 2022.
+
+**(b) Como esse CAPEX se financia.** O mesmo estudo: as concessões e PPPs de RSU "têm avançado com apoio do Fundo de Estruturação de Projetos da Caixa (FEP Caixa) e com recursos do BNDES […] **com projetos de financiamento de longo prazo**". Ou seja: a política federal estrutura o setor sobre **dívida de longo prazo**, não sobre capital próprio. O diagnóstico de referência é o Estudo Especial n.º 30 do BNDES, *Diagnóstico do setor de resíduos sólidos urbanos e o desafio do encerramento dos lixões* (ago./2024).
+
+**(c) Qual alavancagem essa estrutura produz.** Dulce Corrêa Monteiro Filha e Marcial Pequeno Saboya de Castro, "Project Finance para a Indústria: Estruturação de Financiamento", *Revista do BNDES*, Rio de Janeiro, v. 7, n. 14, p. 107-124, dez. 2000 (íntegra examinada), p. 118: "por ter o project finance uma estruturação mais alavancada, **é comum encontrar-se relação debt-equity (dívida bancária/patrimônio líquido) de 70%:30% ou 80%:20%**". Dívida de 70–80% da estrutura de capital corresponde a IE da ordem de **0,7 a 0,8** — faixa em que caem, com precisão, os balanços reais apurados no § 4.4 (Orizon 0,64–0,67; Solví 0,79). Teoria do financiamento de infraestrutura e dados empíricos convergem: **o IE ≤ 0,5 do edital está abaixo do piso estrutural do setor que ele pretende contratar.**
+
+**Fecho do silogismo**: (i) a política pública federal financia o RSU com dívida longa (a, b); (ii) quem executa concessões de RSU, portanto, carrega IE de 0,64–0,79 (c + § 4.4); (iii) logo, o licitante que exibe IE ≤ 0,5 tende a ser justamente o que **nunca executou** concessão de RSU em escala — o índice opera como filtro *inverso* de experiência setorial, em contradição frontal com a Súmula 289/TCU ("atender às características do objeto licitado").
+
+*Registro*: o artigo acadêmico peer-reviewed sobre avaliação de EVTE para concessões de gestão de RSU (revista *Engenharia Sanitária e Ambiental*, SciELO) foi localizado mas não pôde ser acessado (HTTP 403); não é citado quanto ao conteúdo.
+
+- **Ancoragem do § 4 (incl. 4.4 e 4.5)**: *construção interpretativa com base documental* (adequação ao objeto e parâmetros de mercado — Súmula 289/TCU; indispensabilidade — art. 37, XXI, da CF; art. 9.º, I, da Lei n.º 14.133/2021), lastreada em fontes institucionais oficiais (BNDES, BNB/ETENE, Plansab/Planares) e literatura técnica com autor e obra identificados.
 
 ---
 
