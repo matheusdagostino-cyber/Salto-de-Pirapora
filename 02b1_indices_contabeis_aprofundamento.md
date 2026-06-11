@@ -68,7 +68,25 @@ A Súmula 289/TCU exige que os índices "atendam às características do objeto 
 
 **4.3. O risco que a liquidez cobriria é baixo neste arranjo.** Trata-se de concessão administrativa (PPP) remunerada por CONTRAPRESTAÇÃO pública mensal — recebível previsível, sem risco de inadimplência difusa de usuários. E quem executa não é o licitante, mas SPE constituída com capital próprio (Edital, item 204), com garantia de execução de 5% (item 208). A função protetiva marginal de índices de liquidez do *licitante* — que não se transferem à SPE — é reduzida, o que eleva o ônus argumentativo da Administração para patamares atípicos (art. 37, XXI, da CF: somente exigências "indispensáveis à garantia do cumprimento das obrigações").
 
-- **Ancoragem do § 4**: *construção interpretativa* (adequação ao objeto — Súmula 289/TCU; indispensabilidade — art. 37, XXI, da CF; art. 9.º, I, da Lei n.º 14.133/2021).
+**4.4. Prova empírica setorial: as líderes do mercado brasileiro de RSU reprovam nos índices do edital.**
+
+Cálculo dos índices do item 118.f sobre os balanços públicos das principais operadoras do setor:
+
+| Empresa | Referência | IE exigido ≤ 0,5 | ILC exigido ≥ 1,5 | ISG exigido ≥ 1,5 | ILG exigido ≥ 1,5 |
+|---|---|---|---|---|---|
+| **Orizon** (ORVR3, líder listada *pure-play* de valorização de resíduos) | 31/12/2024 | **0,64 — reprova** | 2,36 — passa | 1,57 — passa o nominal, **reprova o 2,0 implícito** | indeterminado |
+| **Orizon** | 31/03/2026 | **0,67 — reprova** | — | **1,49 — reprova** | — |
+| **Solví Essencis Ambiental** (consolidado, DF auditada) | 31/12/2024 | **0,79 — reprova** | **1,03 — reprova** | **1,27 — reprova** | **reprova por majorante** |
+
+Memória de cálculo — Orizon 31/12/2024 (R$ mi): AT 4.293,95; passivo total 2.742,31; AC 1.345,25; PC 569,47 → IE = 0,639; ILC = 2,36; ISG = 1,566. Orizon 31/03/2026 (R$ mi): AT 4.446,96; PL 1.459,99 → passivo 2.986,97 → IE = 0,672; ISG = 1,489. Solví Essencis consolidado 31/12/2024 (R$ mil): AT 6.838.993; AC 1.396.843; PC 1.356.094; PNC 4.020.663 → IE = 0,786; ILC = 1,030; ISG = 1,272; ILG reprova por demonstração: ainda que **todo** o ativo não circulante fosse realizável a longo prazo, (AC+ANC)/(PC+PNC) = 1,27 < 1,5.
+
+Leitura do resultado: a líder listada do setor — lucrativa (lucro líquido de R$ 74,5 mi em 2024), em crescimento (EBITDA +21%, margem 48%) — e um dos maiores grupos privados de gestão de resíduos do país **não se habilitariam** neste edital. A alavancagem acima de 0,5 do ativo não é sinal de fragilidade no setor: é a **estrutura de capital normal** de quem imobiliza aterros, usinas e frota com dívida longa lastreada em recebíveis. Um filtro que reprova as operadoras líderes e saudáveis do mercado-alvo demonstra, por si, que não foi calibrado com "parâmetros atualizados de mercado" (Súmula 289/TCU) nem "atende às características do objeto licitado" — e responde à pergunta decisiva: *quem sobra?* Perfis asset-light e entrantes sem lastro operacional no objeto, o oposto da proteção que a exigência diz buscar.
+
+**Cautela com a premissa "o setor sempre paga" — não usar nessa forma.** O contra-exemplo está dado: o Grupo Ambipar ingressou em recuperação judicial em outubro/2025 (dívida da ordem de R$ 10,5–11 bi), e a Estre Ambiental passou por reestruturação de dívida. A formulação defensável é outra e mais forte: (i) a crise da Ambipar decorreu de operações financeiras (swap) e vencimento antecipado de dívida corporativa, não de inadimplemento operacional de contratos municipais de RSU; (ii) o IE ≤ 0,5 **não teria poder discriminante** sequer para esse caso — reprova igualmente a empresa que quebrou e as que seguem sólidas (Orizon, Solví), ou seja, não separa risco bom de risco ruim, apenas encolhe o universo de licitantes; (iii) a proteção adequada contra insolvência superveniente da contratada não é índice de balanço do licitante, e sim o que o próprio edital já tem: SPE com capital próprio (item 204), garantia de execução de 5% (item 208) e step-in dos financiadores (minuta, Cláusulas 9 e 11).
+
+*Nota de fonte*: dados da Orizon obtidos de agregadores financeiros (investing.com e fundamentus.com.br, convergentes entre si e entre períodos); dados da Solví Essencis extraídos da demonstração financeira auditada publicada (exercício 2024); RJ da Ambipar confirmada em múltiplas fontes jornalísticas convergentes. Para a peça de impugnação, anexar as DFs oficiais (CVM/RI das companhias), que são públicas.
+
+- **Ancoragem do § 4 (incl. 4.4)**: *construção interpretativa com base documental* (adequação ao objeto e parâmetros de mercado — Súmula 289/TCU; indispensabilidade — art. 37, XXI, da CF; art. 9.º, I, da Lei n.º 14.133/2021).
 
 ---
 
